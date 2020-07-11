@@ -1,9 +1,9 @@
-# Dries's Dotfiles
+# My Dotfiles
 
-This repository serves as my way to help me setup and maintain my Mac. It takes the effort out of installing everything manually. Everything needed to install my preferred setup of macOS is detailed in this readme. Feel free to explore, learn and copy parts for your own dotfiles. Enjoy! :smile:
+This repository helps set up and maintain my Mac. It takes the effort out of installing everything manually. Everything needed to install my preferred setup of macOS is detailed in this readme. Feel free to explore, learn and copy parts for your own dotfiles.
 
-📖 Read the blog post: https://driesvints.com/blog/getting-started-with-dotfiles  
-📺 Watch the screencast on Laracasts: https://laracasts.com/series/guest-spotlight/episodes/1
+📖 @driesvints [blog post](https://driesvints.com/blog/getting-started-with-dotfiles)
+📺 [Laracasts tutorial](https://laracasts.com/series/guest-spotlight/episodes/1)
 
 ## A Fresh macOS Setup
 
@@ -66,6 +66,11 @@ Enjoy your own Dotfiles!
 
 ## Thanks To...
 
-I first got the idea for starting this project by visiting the [Github does dotfiles](https://dotfiles.github.io/) project. Both [Zach Holman](https://github.com/holman/dotfiles) and [Mathias Bynens](https://github.com/mathiasbynens/dotfiles) were great sources of inspiration. [Sourabh Bajaj](https://twitter.com/sb2nov/)'s [Mac OS X Setup Guide](http://sourabhbajaj.com/mac-setup/) proved to be invaluable. Thanks to [@subnixr](https://github.com/subnixr) for [his awesome Zsh theme](https://github.com/subnixr/minimal)! And lastly, I'd like to thank [Maxime Fabre](https://twitter.com/anahkiasen) for [his excellent presentation on Homebrew](https://speakerdeck.com/anahkiasen/a-storm-homebrewin) which made me migrate a lot to a [`Brewfile`](./Brewfile) and [Mackup](https://github.com/lra/mackup).
-
-In general, I'd like to thank every single one who open-sources their dotfiles for their effort to contribute something to the open-source community. Your work means the world! :earth_africa: :heart:
+[Dries Vints](https://github.com/driesvints/dotfiles)
+[Github does dotfiles](https://dotfiles.github.io/)
+[Zach Holman](https://github.com/holman/dotfiles)
+[Mathias Bynens](https://github.com/mathiasbynens/dotfiles)
+[Mac OS X Setup Guide](http://sourabhbajaj.com/mac-setup/)
+[Minimal Zsh theme](https://github.com/subnixr/minimal)
+[Presentation on Homebrew](https://speakerdeck.com/anahkiasen/a-storm-homebrewin)
+[Mackup](https://github.com/lra/mackup)

@@ -2,8 +2,8 @@
 
 This repository helps set up and maintain my Mac. It takes the effort out of installing everything manually. Everything needed to install my preferred setup of macOS is detailed in this readme. Feel free to explore, learn and copy parts for your own dotfiles.
 
-📖 @driesvints [blog post](https://driesvints.com/blog/getting-started-with-dotfiles)
-📺 [Laracasts tutorial](https://laracasts.com/series/guest-spotlight/episodes/1)
+- 📖 [Dries Vints blog post](https://driesvints.com/blog/getting-started-with-dotfiles)
+- 📺 [Laracasts tutorial](https://laracasts.com/series/guest-spotlight/episodes/1)
 
 ## A Fresh macOS Setup
 
@@ -66,11 +66,11 @@ Enjoy your own Dotfiles!
 
 ## Thanks To...
 
-[Dries Vints](https://github.com/driesvints/dotfiles)
-[Github does dotfiles](https://dotfiles.github.io/)
-[Zach Holman](https://github.com/holman/dotfiles)
-[Mathias Bynens](https://github.com/mathiasbynens/dotfiles)
-[Mac OS X Setup Guide](http://sourabhbajaj.com/mac-setup/)
-[Minimal Zsh theme](https://github.com/subnixr/minimal)
-[Presentation on Homebrew](https://speakerdeck.com/anahkiasen/a-storm-homebrewin)
-[Mackup](https://github.com/lra/mackup)
+- [Dries Vints](https://github.com/driesvints/dotfiles)
+- [Github does dotfiles](https://dotfiles.github.io/)
+- [Zach Holman](https://github.com/holman/dotfiles)
+- [Mathias Bynens](https://github.com/mathiasbynens/dotfiles)
+- [Mac OS X Setup Guide](http://sourabhbajaj.com/mac-setup/)
+- [Minimal Zsh theme](https://github.com/subnixr/minimal)
+- [Presentation on Homebrew](https://speakerdeck.com/anahkiasen/a-storm-homebrewin)
+- [Mackup](https://github.com/lra/mackup)

@@ -95,5 +95,4 @@ cask 'font-source-serif-pro'
 # Mac App Store
 mas 'Giphy Capture', id: 668208984
 mas 'Keynote', id: 409183694
-mas 'Numbers', id: 409203825
 mas 'Tweetbot', id: 1384080005
